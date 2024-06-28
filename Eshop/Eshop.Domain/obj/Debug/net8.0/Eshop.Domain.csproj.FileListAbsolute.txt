@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\IntegriraniSistemiVezbi\Eshop\Eshop.Domain\bin\Debug\net8.0\Eshop.Domain.deps.json
+C:\Users\User\Desktop\IntegriraniSistemiVezbi\Eshop\Eshop.Domain\bin\Debug\net8.0\Eshop.Domain.dll
+C:\Users\User\Desktop\IntegriraniSistemiVezbi\Eshop\Eshop.Domain\bin\Debug\net8.0\Eshop.Domain.pdb
+C:\Users\User\Desktop\IntegriraniSistemiVezbi\Eshop\Eshop.Domain\obj\Debug\net8.0\Eshop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\IntegriraniSistemiVezbi\Eshop\Eshop.Domain\obj\Debug\net8.0\Eshop.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\IntegriraniSistemiVezbi\Eshop\Eshop.Domain\obj\Debug\net8.0\Eshop.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\IntegriraniSistemiVezbi\Eshop\Eshop.Domain\obj\Debug\net8.0\Eshop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\IntegriraniSistemiVezbi\Eshop\Eshop.Domain\obj\Debug\net8.0\Eshop.Domain.dll
+C:\Users\User\Desktop\IntegriraniSistemiVezbi\Eshop\Eshop.Domain\obj\Debug\net8.0\refint\Eshop.Domain.dll
+C:\Users\User\Desktop\IntegriraniSistemiVezbi\Eshop\Eshop.Domain\obj\Debug\net8.0\Eshop.Domain.pdb
+C:\Users\User\Desktop\IntegriraniSistemiVezbi\Eshop\Eshop.Domain\obj\Debug\net8.0\ref\Eshop.Domain.dll
+C:\Users\User\Desktop\IntegriraniSistemiVezbi\Eshop\Eshop.Domain\obj\Debug\net8.0\Eshop.Domain.csproj.AssemblyReference.cache

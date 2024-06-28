@@ -1,0 +1,74 @@
+[
+  {
+    "ContainingType": "Eshop.Web.Controllers.API.AdminController",
+    "Method": "GetAllActiveOrders",
+    "RelativePath": "api/Admin/GetAllActiveOrders",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Eshop.Domain.Domain.Order, Eshop.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Eshop.Web.Controllers.API.AdminController",
+    "Method": "GetDetailsForOrder",
+    "RelativePath": "api/Admin/GetDetailsForOrder",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Eshop.Domain.Domain.BaseEntity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Eshop.Domain.Domain.Order",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Eshop.Web.Controllers.API.AdminController",
+    "Method": "ImportAllUsers",
+    "RelativePath": "api/Admin/ImportAllUsers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "System.Collections.Generic.List\u00601[[Eshop.Domain.DTO.UserRegistrationDto, Eshop.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

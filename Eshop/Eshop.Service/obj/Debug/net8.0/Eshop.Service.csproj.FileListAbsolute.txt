@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\IntegriraniSistemiVezbi\Eshop\Eshop.Service\bin\Debug\net8.0\Eshop.Service.deps.json
+C:\Users\User\Desktop\IntegriraniSistemiVezbi\Eshop\Eshop.Service\bin\Debug\net8.0\Eshop.Service.dll
+C:\Users\User\Desktop\IntegriraniSistemiVezbi\Eshop\Eshop.Service\bin\Debug\net8.0\Eshop.Service.pdb
+C:\Users\User\Desktop\IntegriraniSistemiVezbi\Eshop\Eshop.Service\obj\Debug\net8.0\Eshop.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\IntegriraniSistemiVezbi\Eshop\Eshop.Service\obj\Debug\net8.0\Eshop.Service.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\IntegriraniSistemiVezbi\Eshop\Eshop.Service\obj\Debug\net8.0\Eshop.Service.AssemblyInfo.cs
+C:\Users\User\Desktop\IntegriraniSistemiVezbi\Eshop\Eshop.Service\obj\Debug\net8.0\Eshop.Service.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\IntegriraniSistemiVezbi\Eshop\Eshop.Service\obj\Debug\net8.0\Eshop.Service.dll
+C:\Users\User\Desktop\IntegriraniSistemiVezbi\Eshop\Eshop.Service\obj\Debug\net8.0\refint\Eshop.Service.dll
+C:\Users\User\Desktop\IntegriraniSistemiVezbi\Eshop\Eshop.Service\obj\Debug\net8.0\Eshop.Service.pdb
+C:\Users\User\Desktop\IntegriraniSistemiVezbi\Eshop\Eshop.Service\obj\Debug\net8.0\ref\Eshop.Service.dll
+C:\Users\User\Desktop\IntegriraniSistemiVezbi\Eshop\Eshop.Service\bin\Debug\net8.0\Eshop.Domain.dll
+C:\Users\User\Desktop\IntegriraniSistemiVezbi\Eshop\Eshop.Service\bin\Debug\net8.0\Eshop.Repository.dll
+C:\Users\User\Desktop\IntegriraniSistemiVezbi\Eshop\Eshop.Service\bin\Debug\net8.0\Eshop.Domain.pdb
+C:\Users\User\Desktop\IntegriraniSistemiVezbi\Eshop\Eshop.Service\bin\Debug\net8.0\Eshop.Repository.pdb
+C:\Users\User\Desktop\IntegriraniSistemiVezbi\Eshop\Eshop.Service\obj\Debug\net8.0\Eshop.Service.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\IntegriraniSistemiVezbi\Eshop\Eshop.Service\obj\Debug\net8.0\Eshop.Se.EA93D2A3.Up2Date
